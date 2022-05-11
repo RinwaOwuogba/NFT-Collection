@@ -5,4 +5,4 @@ const METADATA_URL = "https://nft-collection-six-chi.vercel.app/api/";
 
 module.exports = { WHITELIST_CONTRACT_ADDRESS, METADATA_URL };
 
-// Crypto Devs Contract Address: 0xF8b23E2B56F1305bd0639c205117Abc0EAf5290A
+// Crypto Devs Contract Address: 0x65A3306DE520E499fB8D3b85602E9474662D565E
